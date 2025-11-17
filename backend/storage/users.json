@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "user-1",
+    "username": "xyz",
+    "email": "",
+    "ageGroup": "adults",
+    "preferences": {
+      "fontSize": "medium",
+      "audioEnabled": true,
+      "highContrast": false,
+      "language": "english"
+    },
+    "gameProgress": {
+      "totalScore": 0,
+      "level": 1,
+      "completedStories": [],
+      "collectedTreasures": [],
+      "achievements": [],
+      "playerStats": {
+        "gamesPlayed": 0,
+        "averageScore": 0,
+        "bestScore": 0,
+        "playTime": 0
+      }
+    },
+    "createdAt": "2025-11-15T11:30:38.674Z",
+    "lastActive": "2025-11-15T11:30:38.674Z"
+  }
+]
